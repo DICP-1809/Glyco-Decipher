@@ -13,4 +13,4 @@ Glyco-Decipher can detect new glycans that not present in glycan databases and c
 - Label-free quantification is achieved in Glyco-Decipher by extracting elution profiles of intact glycopeptides in MS1. And the quantification results are able to map to the glycosites in proteins for biological study.
 
 
-- Glyco-Decipher is designed for analysis intact glycopeptide mass spectrum acquired from stepped collision mode fragmentation and **exhibits best identification performance for mass spectrum acquired at normalized collision energy (NCE) at 20%-30%-40% with long chromatography gradient**.
+- Glyco-Decipher is designed for the analysis of intact glycopeptide mass spectrum acquired from stepped collision mode fragmentation and **exhibits best identification performance for mass spectrum acquired at normalized collision energy (NCE) at 20%-30%-40% with long chromatography gradient**.
