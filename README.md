@@ -1,5 +1,5 @@
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/DICP-1809/Glyco-Decipher/releases/)
-[![Github tag](https://badgen.net/github/tag/Naereen/Strapdown.js)](https://github.com/DICP-1809/Glyco-Decipher/releases/)
+[![Github all releases](https://img.shields.io/github/downloads/DICP-1809/Glyco-Decipher/total.svg)](https://github.com/DICP-1809/Glyco-Decipher/releases/)
+[![GitHub version](https://img.shields.io/github/v/release/DICP-1809/Glyco-Decipher.svg)](https://github.com/DICP-1809/Glyco-Decipher/releases/tag/v1.0.2)
 - Glyco-Decipher is a freely available software tool aimed at interpreting tandem mass spectrometry (MS/MS) spectra of N-glycopeptides fragmented by higher-energy collisional dissociation (HCD) in stepped energy mode.
 
 
