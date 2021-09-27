@@ -1,3 +1,4 @@
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 
 - Glyco-Decipher is a freely available software tool aimed at interpreting tandem mass spectrometry (MS/MS) spectra of N-glycopeptides fragmented by higher-energy collisional dissociation (HCD) in stepped energy mode.
