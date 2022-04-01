@@ -1,4 +1,4 @@
-# Glyco-Decipher: glycan database-independent peptide matching enables discovery of modified glycans and in-depth characterization of site-specific N-glycosylation#
+# Glyco-Decipher: glycan database-independent peptide matching enables discovery of modified glycans and in-depth characterization of site-specific N-glycosylation #
 
 [![Github all releases](https://img.shields.io/github/downloads/DICP-1809/Glyco-Decipher/total.svg)](https://github.com/DICP-1809/Glyco-Decipher/releases/)
 [![GitHub version](https://img.shields.io/github/v/release/DICP-1809/Glyco-Decipher.svg)](https://github.com/DICP-1809/Glyco-Decipher/releases/tag/v1.0.2)
