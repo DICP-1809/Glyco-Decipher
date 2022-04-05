@@ -50,8 +50,8 @@ For other software developed by the Mingliang Ye's Lab, please see [https://gith
 ## Contact Us ##
 - **Group leader:** Mingliang Ye
 
-**Email:** mingliang@dicp.ac.cn
+**e-mail:** mingliang@dicp.ac.cn
 
 - **Developer:** Zheng Fang
 
-**Email:** zhengfang@dicp.ac.cn
+**e-mail:** zhengfang@dicp.ac.cn
