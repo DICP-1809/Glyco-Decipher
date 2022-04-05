@@ -46,3 +46,12 @@ Information of errors will be provided when the software is running. If errors a
 
 ## Other Software ##
 For other software developed by the Mingliang Ye's Lab, please see [https://github.com/DICP-1809](https://github.com/DICP-1809).
+
+## Contact Us ##
+- **Group leader:** Mingliang Ye
+
+**Email:** mingliang@dicp.ac.cn
+
+- **Developer:** Zheng Fang
+
+**Email:** zhengfang@dicp.ac.cn
