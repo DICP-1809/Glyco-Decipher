@@ -14,8 +14,6 @@ Zheng Fang; Hongqiang Qin; Jiawei Mao; Zhongyu Wang; Na Zhang; Yan Wang; Luyao L
 
 *Nature Communications* **13**, 1900 (2022).
 
-DOI: https://doi.org/10.1038/s41467-022-29530-y
-
 ## Tutorial ##
 YouTube： [https://youtu.be/Q6mYwpL7OpU](https://youtu.be/Q6mYwpL7OpU)
 
