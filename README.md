@@ -8,7 +8,13 @@ Glyco-Decipher is a freely available software tool aimed at sensitive intepretat
 Glyco-Decipher is written in Java programming language, with a graphical user interface (GUI) written in JavaFX. Glyco-Decipher could be downloadeded and executed as a packed .exe application. Instructions on software installation, operation, common problems and other issues could be found in the documentations.
 
 ## Cite ##
-Publication pending.
+[Glyco-Decipher enables glycan database-independent peptide matching and in-depth characterization of site-specific N-glycosylation](https://www.nature.com/articles/s41467-022-29530-y)
+
+Zheng Fang; Hongqiang Qin; Jiawei Mao; Zhongyu Wang; Na Zhang; Yan Wang; Luyao Liu; Yongzhan Nie; Mingming Dong & Mingliang Ye
+
+*Nature Communications* **13**, 1900 (2022).
+
+DOI: https://doi.org/10.1038/s41467-022-29530-y
 
 ## Tutorial ##
 YouTube： [https://youtu.be/Q6mYwpL7OpU](https://youtu.be/Q6mYwpL7OpU)
