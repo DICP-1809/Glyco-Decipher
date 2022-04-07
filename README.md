@@ -11,7 +11,7 @@ Glyco-Decipher is written in Java programming language, with a graphical user in
 Publication pending.
 
 ## Tutorial ##
-Youtube： [https://youtu.be/Q6mYwpL7OpU](https://youtu.be/Q6mYwpL7OpU)
+YouTube： [https://youtu.be/Q6mYwpL7OpU](https://youtu.be/Q6mYwpL7OpU)
 
 ## Download Glyco-Decipher ##
 It is recommended to use Glyco-Decipher of the latest version, which could be downloaded [here](https://github.com/DICP-1809/Glyco-Decipher/releases), where previous version can also be acquired. The user manual is also included.
