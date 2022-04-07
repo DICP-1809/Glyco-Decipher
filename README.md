@@ -15,7 +15,7 @@ Zheng Fang; Hongqiang Qin; Jiawei Mao; Zhongyu Wang; Na Zhang; Yan Wang; Luyao L
 *Nature Communications* **13**, 1900 (2022).
 
 ## Tutorial ##
-- YouTube：[https://youtu.be/Q6mYwpL7OpU](https://youtu.be/Q6mYwpL7OpU)
+- YouTube: [https://youtu.be/Q6mYwpL7OpU](https://youtu.be/Q6mYwpL7OpU)
 - Bilibili (Mainland China): [https://www.bilibili.com/video/BV1n94y1Z7bV/](https://www.bilibili.com/video/BV1n94y1Z7bV/)
 
 ## Download Glyco-Decipher ##
